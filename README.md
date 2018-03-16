@@ -35,9 +35,9 @@ You can test bot if search by name at Telegram @FuckingGreatAdviceRubot.
 
 Allowed commands:
 
-`/start` - Start working with bot
-`/help` - Short help by usage bot
-`/advice` - Get random fucking great advice
+* `/start` - Start working with bot
+* `/help` - Short help by usage bot
+* `/advice` - Get random fucking great advice
 
 
 #### Limitations
